@@ -4,14 +4,19 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    /* Here change background of the hole page */
     //background: #24252A;
-    background: #0a192f;
+    //background: #0a192f;
+    //background: #1c1b1b;
+    //background: #131212;
+    background: #0c0c0c;
 }
 
 li, a, button{
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
-    font-size: 22px;
+    /* 22px */
+    font-size: 36px;
     color: #ccd6f6;
     text-decoration: none;
 }
@@ -29,7 +34,7 @@ header{
     margin-right: auto;
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
-    font-size: 26px;
+    font-size: 36px;
     font-style: italic;
     color: #ccd6f6;
     text-decoration: none;

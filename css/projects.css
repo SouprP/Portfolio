@@ -11,7 +11,8 @@
 }
 
 .projects h1{
-    font-size: 36px;
+    /* 36px */
+    font-size: 72px;
     color: #ccd6f6;
     text-decoration: none;
     padding-top: 20px;
@@ -19,16 +20,20 @@
 }
 
 .projects p{
-    font-size: 20px;
+    /* 20px */
+    font-size: 24px;
     color: #8892b0;
     text-decoration: none;
     padding-top: 24px;
 }
 
 .project_block{
-    width: 400px;
-    height: 400px;
-    background-color: #112240;
+    width: 550px;
+    height: 550px;
+    /* Here change background of projects */
+    //background-color: #112240;
+    //background-color: #1c1b1b;
+    background-color: #111111;
     //border: 3px solid black;
     //box-shadow: 0px 0px 5px 5px black inset;
     border-radius: 25px;
@@ -37,6 +42,10 @@
     margin-left: 10px;
     transition: 0.3s;
     //position: relative;
+}
+
+.line{
+    padding-bottom: 3%;
 }
 
 .technology-used{
@@ -72,12 +81,9 @@
 
 .project_block:hover{
     transform: translateY(-25px);
+    background-color: #1c1b1b;
     transition: 0.3s;
 }
-
-.project_block:hover{
-}
-
 
 .line{
     //display: grid;
