@@ -28,6 +28,12 @@
 }
 
 .project_block{
+    /*
+    width: 550px;
+    height: 550px;
+     */
+    //width: 25vmax;
+    //height: 25vmax;
     width: 550px;
     height: 550px;
     /* Here change background of projects */
