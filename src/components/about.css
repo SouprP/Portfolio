@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+@media(min-width: 2000px){
+    .about_holder{
+        margin-top: 350px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    h1{
+        font-family: "Montserrat", sans-serif;
+        font-weight: 500;
+        /* 22px */
+        font-size: 44px;
+        color: white;
+        text-decoration: none;
+    }
+}
