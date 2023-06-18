@@ -25,10 +25,15 @@ export default function Navbar(){
 
                     <div className={"navbar_rightSide"}>
                         <ul>
-                            <li>About</li>
-                            <li>Projects</li>
-                            <li>Contact</li>
-                            <li>CV</li>
+                            <li>
+                                <button>Projects</button>
+                            </li>
+                            <li>
+                                <button>Contact</button>
+                            </li>
+                            <li>
+                                <button>CV</button>
+                            </li>
                         </ul>
                     </div>
                 </div>

@@ -8,10 +8,12 @@ export default function About(){
                 <h1>
                     About me!
                 </h1>
+                <p>
+                    I'm an experienced software engineer.
+                </p>
             </div>
 
             <div className={"about_rightSide"}>
-
             </div>
         </div>
     )
