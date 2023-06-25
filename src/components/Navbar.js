@@ -29,9 +29,6 @@ export default function Navbar(){
                                 <button>Projects</button>
                             </li>
                             <li>
-                                <button>Contact</button>
-                            </li>
-                            <li>
                                 <button>CV</button>
                             </li>
                         </ul>

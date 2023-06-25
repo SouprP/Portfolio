@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
-@media(min-width: 2000px){
+@media(min-width: 1200px){
 
     .navbar_holder{
         /*
@@ -13,8 +13,8 @@
         grid-gap: 1%;
 
         margin-top: 20px;
-        margin-left: 15%;
-        margin-right: 15%;
+        margin-left: 10%;
+        margin-right: 10%;
         border-radius: 50px;
 
 
@@ -25,11 +25,17 @@
         /*
         margin-left: 35%;
         margin-right: 35%;
-         */
+
+        This below, if needs to  be smaller
         margin-left: 40%;
         width: 150px;
-
+         */
     }
+
+    .navbar_rightSide{
+        margin-right: inherit;
+    }
+
 
     .navbar_middle div{
         /*
@@ -48,7 +54,7 @@
 
 
         margin-left: 5px;
-        margin-right: 10px;
+        margin-right: 5px;
         border-radius: 25px;
 
 

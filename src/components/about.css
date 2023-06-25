@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
-@media(min-width: 2000px){
+/*
+ 2000px works
+ 1200px
+ */
+@media(min-width: 1200px){
     .about_holder{
         margin-top: 250px;
         margin-left: 15%;
